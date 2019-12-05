@@ -1,0 +1,23 @@
+C:\Users\Arek\Desktop\test\1277387882Image000043.jpg 639,751,667,778,1 206,767,231,795,1  
+C:\Users\Arek\Desktop\test\1277387882Image000049.jpg 657,728,690,759,1 137,744,175,779,1  
+C:\Users\Arek\Desktop\test\1277387882Image000060.jpg 761,687,815,748,1  
+C:\Users\Arek\Desktop\test\1277388031Image000034.jpg 1046,697,1088,741,1  
+C:\Users\Arek\Desktop\test\1277388053Image000052.jpg 1072,717,1101,750,1  
+C:\Users\Arek\Desktop\test\1277388138Image000109.jpg 876,714,921,759,1 184,747,235,790,1  
+C:\Users\Arek\Desktop\test\1277388297Image000028.jpg 1032,708,1065,747,1  
+C:\Users\Arek\Desktop\test\1277388914Image000037.jpg 1105,721,1135,757,1  
+C:\Users\Arek\Desktop\test\1277388958Image000037.jpg 1047,730,1072,756,1 1069,721,1089,749,0 796,749,810,769,1  
+C:\Users\Arek\Desktop\test\1277388992Image000030.jpg 725,748,744,771,1  
+C:\Users\Arek\Desktop\test\1277388992Image000036.jpg 747,737,778,769,1  
+C:\Users\Arek\Desktop\test\1277389032Image000062.jpg 873,728,904,766,1 360,737,387,770,1  
+C:\Users\Arek\Desktop\test\1277389150Image000011.jpg 1125,711,1149,732,1 811,742,837,769,1  
+C:\Users\Arek\Desktop\test\1277389179Image000060.jpg 932,704,974,748,1  
+C:\Users\Arek\Desktop\test\1277389506Image000073.jpg 1085,632,1164,717,1  
+C:\Users\Arek\Desktop\test\1277389846Image000067.jpg 958,694,1010,745,1  
+C:\Users\Arek\Desktop\test\1277390342Image000052.jpg 808,729,842,762,1  
+C:\Users\Arek\Desktop\test\1277390342Image000062.jpg 1129,643,1211,726,1  
+C:\Users\Arek\Desktop\test\1277390814Image000029.jpg 888,705,925,748,1  
+C:\Users\Arek\Desktop\test\1277391485Image000050.jpg 1025,673,1073,729,1 69,720,114,763,1  
+C:\Users\Arek\Desktop\test\1277391585Image000084.jpg 905,684,956,735,1 111,733,170,780,1  
+C:\Users\Arek\Desktop\test\1277391703Image000039.jpg 797,727,822,754,1 234,764,270,793,1  
+C:\Users\Arek\Desktop\test\1277391772Image000126.jpg 900,645,958,703,1 897,707,954,751,2  

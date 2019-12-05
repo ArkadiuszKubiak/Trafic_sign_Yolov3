@@ -1,0 +1,12 @@
+{
+  "annotation_path" : "trafic_sign_dataset/speed_limit/speed_linit_annotations_train.txt",
+  "log_dir" : "logs/",
+  "classes_path" : "trafic_sign_dataset/classes.txt",
+  "anchors_path" : "model_data/yolo_anchors.txt",
+  "output_weights_path" : "logs/trained_weights_final.h5",
+  "pretreined_weights_path" : "model_data/yolo_weights.h5",
+  "batch_size_during_freez_deeper_layers" : 32,
+  "batch_size_during_unfreez" : 8,
+  "epoch_during_freez_deeper_layers" : 50,
+  "epoch_during_unfreez" : 100
+}

@@ -1,0 +1,1640 @@
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1.jpg 975,337,1027,389,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\10.jpg 1042,282,1120,356,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\100.jpg 1111,281,1164,334,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1000.jpg 587,151,619,182,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1001.jpg 572,149,599,177,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1002.jpg 549,146,579,177,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1003.jpg 524,143,563,175,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1004.jpg 500,136,540,173,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1005.jpg 472,131,509,167,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1006.jpg 441,132,481,166,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1007.jpg 406,129,449,169,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1008.jpg 366,122,412,168,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1009.jpg 324,114,371,165,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\101.jpg 799,298,860,366,2 725,442,749,467,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1010.jpg 276,108,321,157,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1011.jpg 225,99,274,153,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1012.jpg 169,92,216,146,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1013.jpg 109,91,159,152,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1014.jpg 49,84,91,144,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1015.jpg 818,207,835,226,1 482,209,500,231,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1016.jpg 828,206,847,227,1 464,209,485,229,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1017.jpg 446,206,468,226,1 839,204,863,225,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1018.jpg 427,201,446,227,1 857,199,878,223,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1019.jpg 398,198,424,222,1 874,193,904,221,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\102.jpg 850,413,875,440,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1020.jpg 368,189,398,217,1 900,181,927,211,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1021.jpg 331,183,357,211,1 933,173,965,202,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1022.jpg 283,175,316,209,1 976,166,1011,202,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1023.jpg 221,168,254,205,1 1036,162,1076,206,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1024.jpg 141,155,177,199,1 1117,149,1160,207,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1025.jpg 31,139,66,196,1 1241,133,1288,199,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1026.jpg 829,194,851,217,1 447,195,472,218,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1027.jpg 429,188,454,213,1 843,191,859,214,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1028.jpg 410,187,431,211,1 859,186,878,213,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1029.jpg 385,179,413,206,1 879,183,899,207,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\103.jpg 746,420,788,463,3 272,413,316,460,3 1275,399,1305,432,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1030.jpg 358,177,385,205,1 898,180,922,206,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1031.jpg 324,175,350,202,1 926,174,957,206,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1032.jpg 281,167,311,199,1 961,166,990,202,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1033.jpg 226,160,264,195,1 1006,163,1041,196,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1034.jpg 154,145,197,190,1 1057,147,1102,189,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1035.jpg 62,128,107,181,1 1135,133,1185,184,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1036.jpg 1252,115,1300,176,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1037.jpg 860,193,883,213,1 433,192,451,213,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1038.jpg 384,182,409,210,1 898,184,924,212,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1039.jpg 357,178,385,205,1 921,180,946,209,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\104.jpg 728,458,751,478,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1040.jpg 321,171,348,201,1 947,173,980,203,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1041.jpg 276,163,307,198,1 983,166,1021,201,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1042.jpg 218,158,255,193,1 1029,155,1067,199,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1043.jpg 144,145,187,188,1 1089,149,1132,195,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1044.jpg 48,130,100,178,1 1167,132,1218,186,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1045.jpg 1285,114,1331,180,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1046.jpg 856,144,883,171,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1047.jpg 879,135,909,164,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1048.jpg 906,135,924,160,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1049.jpg 928,129,956,164,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\105.jpg 687,421,708,442,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1050.jpg 950,130,979,159,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1051.jpg 977,128,1004,155,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1052.jpg 1004,124,1030,150,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1053.jpg 1290,66,1330,106,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1054.jpg 1310,66,1352,108,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1055.jpg 1326,57,1369,100,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1056.jpg 1348,48,1392,91,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\106.jpg 967,381,1005,419,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\107.jpg 793,299,855,359,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1070.jpg 335,1,408,53,2 907,197,920,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1071.jpg 905,197,923,218,0 331,1,409,52,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1072.jpg 907,197,919,216,0 332,2,411,55,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1073.jpg 333,1,409,55,2 903,197,924,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1074.jpg 336,1,406,49,2 906,196,920,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1075.jpg 339,3,410,53,2 906,197,921,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1076.jpg 336,1,409,53,2 907,198,922,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1077.jpg 336,1,406,57,2 904,197,924,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1078.jpg 336,1,406,52,2 902,197,922,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1079.jpg 336,2,406,57,2 905,199,923,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\108.jpg 658,412,685,440,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1080.jpg 337,1,403,52,2 903,197,923,220,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1081.jpg 337,1,408,49,2 902,197,924,220,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1082.jpg 902,196,921,218,0 336,1,405,49,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1083.jpg 337,1,405,53,2 904,198,922,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1084.jpg 905,197,922,219,0 336,1,410,53,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1085.jpg 336,1,409,55,2 906,197,921,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1086.jpg 338,1,405,51,2 905,196,921,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1087.jpg 336,1,410,52,2 905,196,923,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1088.jpg 335,1,406,52,2 905,198,922,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1089.jpg 338,1,408,52,2 906,199,920,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\109.jpg 792,274,849,331,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\11.jpg 902,423,960,477,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\110.jpg 962,147,1070,255,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1100.jpg 335,1,409,52,2 906,198,920,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1101.jpg 338,1,406,53,2 904,198,921,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1102.jpg 339,1,407,55,2 906,196,921,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1103.jpg 339,1,403,54,2 906,198,922,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1104.jpg 336,1,407,54,2 905,197,920,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1105.jpg 338,2,407,55,2 905,196,922,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1106.jpg 337,1,406,48,2 905,198,921,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1107.jpg 339,1,404,51,2 904,196,922,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\111.jpg 605,457,622,476,1 328,428,345,449,1 601,432,627,457,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\112.jpg 675,406,709,437,1 165,394,191,423,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\113.jpg 655,422,677,442,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\114.jpg 665,267,741,331,2 317,440,333,460,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\115.jpg 726,226,834,332,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\116.jpg 731,313,783,368,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\117.jpg 678,409,708,438,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\118.jpg 840,277,927,366,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\119.jpg 767,353,810,394,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\12.jpg 950,456,981,484,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\120.jpg 658,318,703,366,3 56,316,106,368,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\121.jpg 758,377,785,401,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\122.jpg 856,152,943,242,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\123.jpg 1145,115,1243,197,0 55,7,162,111,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\124.jpg 1101,203,1183,290,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\125.jpg 1017,387,1045,418,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\126.jpg 724,382,750,409,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\127.jpg 1188,119,1297,247,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\128.jpg 886,446,917,473,1 315,442,336,469,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\129.jpg 971,268,1031,330,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\13.jpg 848,425,887,464,1 838,368,895,419,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\130.jpg 1075,268,1165,340,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\131.jpg 1129,285,1169,327,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\132.jpg 985,354,1024,390,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\133.jpg 817,335,856,371,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\134.jpg 922,280,983,343,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\135.jpg 859,269,921,339,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\136.jpg 1152,227,1225,288,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\137.jpg 935,297,995,356,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\138.jpg 1274,385,1310,416,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\139.jpg 976,399,1005,428,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\14.jpg 995,291,1078,374,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\140.jpg 1147,365,1181,398,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\141.jpg 867,381,917,418,0 299,418,344,461,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\142.jpg 1053,276,1117,336,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1420.jpg 338,111,364,142,0 484,163,508,192,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1421.jpg 481,163,509,194,0 333,111,356,138,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1422.jpg 478,161,507,189,0 326,108,350,133,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1423.jpg 772,182,790,202,0 318,107,343,133,0 476,165,504,192,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1424.jpg 310,101,338,125,0 476,160,501,188,0 780,179,796,200,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1425.jpg 473,154,497,183,0 302,93,329,121,0 788,177,805,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1426.jpg 466,153,495,184,0 292,88,318,117,0 793,175,811,195,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1427.jpg 280,85,309,116,0 462,152,489,182,0 798,173,817,197,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1428.jpg 267,79,299,113,0 455,149,487,180,0 802,173,828,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1429.jpg 251,73,290,110,0 446,146,483,181,0 812,170,833,197,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\143.jpg 1077,273,1203,402,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1430.jpg 239,66,269,99,0 436,144,474,179,0 820,166,841,193,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1431.jpg 222,59,255,93,0 430,140,465,172,0 823,164,851,192,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1432.jpg 205,51,238,86,0 421,133,458,170,0 832,159,856,186,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1433.jpg 184,44,221,85,0 409,133,442,168,0 842,159,865,191,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1434.jpg 163,39,198,80,0 393,129,436,170,0 850,163,872,192,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1435.jpg 138,32,181,74,0 378,129,422,168,0 855,165,883,198,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1436.jpg 110,23,153,68,0 360,124,404,169,0 862,161,894,197,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1437.jpg 82,10,126,55,0 340,115,381,155,0 869,154,895,193,0 511,201,526,219,0 928,200,944,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1438.jpg 48,1,95,46,0 317,107,362,155,0 877,152,909,188,0 496,199,517,219,0 928,196,951,221,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1439.jpg 289,98,335,145,0 881,146,915,188,0 486,195,507,216,0 928,195,947,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\144.jpg 822,362,859,394,3 288,389,327,424,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1440.jpg 256,91,306,143,0 890,144,921,179,0 472,197,492,218,0 922,196,945,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1441.jpg 228,83,280,138,0 900,136,931,179,0 458,196,479,218,0 921,196,944,221,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1442.jpg 179,69,241,129,0 904,125,948,164,0 443,194,462,216,0 921,195,940,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1443.jpg 143,57,199,116,0 921,113,961,161,0 427,186,450,211,0 915,188,940,213,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1444.jpg 94,41,150,113,0 929,102,974,161,0 407,187,424,208,0 910,188,930,210,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1445.jpg 43,25,98,92,0 945,90,988,148,0 387,185,406,207,0 905,186,927,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1446.jpg 963,77,1019,141,0 901,187,922,210,0 364,184,386,206,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1447.jpg 989,55,1041,130,0 892,187,918,210,0 338,183,365,205,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1448.jpg 1024,33,1085,121,0 315,179,342,208,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1449.jpg 1076,3,1133,98,0 292,181,315,204,0 884,185,902,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\145.jpg 850,446,878,472,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1450.jpg 262,178,290,207,0 874,183,902,208,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1451.jpg 864,174,890,204,0 203,173,234,202,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1452.jpg 859,177,887,204,0 167,171,203,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1453.jpg 851,177,879,204,0 140,172,169,202,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1454.jpg 105,171,133,202,0 845,174,874,206,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1455.jpg 65,174,93,205,0 840,177,867,205,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1456.jpg 26,172,50,210,0 836,175,867,204,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1457.jpg 833,175,863,207,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1458.jpg 830,172,862,201,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1459.jpg 832,167,858,201,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\146.jpg 793,441,816,460,1 830,416,855,441,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1460.jpg 827,166,865,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1461.jpg 827,166,862,202,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1462.jpg 827,165,863,202,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1463.jpg 827,163,863,200,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1464.jpg 825,157,865,202,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1465.jpg 828,156,865,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1466.jpg 826,151,867,196,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1467.jpg 828,144,868,189,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1468.jpg 830,140,875,187,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1469.jpg 830,136,876,184,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\147.jpg 848,365,880,393,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1470.jpg 832,133,880,180,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1471.jpg 832,127,886,181,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1472.jpg 834,120,895,177,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1473.jpg 839,113,896,177,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1474.jpg 841,107,906,173,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1475.jpg 849,98,910,160,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1476.jpg 854,89,923,160,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1477.jpg 859,83,931,150,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1478.jpg 865,76,946,150,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1479.jpg 876,69,965,139,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\148.jpg 835,397,884,443,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1480.jpg 887,47,979,145,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1481.jpg 895,38,1001,133,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1482.jpg 916,24,1012,125,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1483.jpg 930,8,1040,119,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1484.jpg 954,2,1062,104,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1486.jpg 996,155,1017,177,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1487.jpg 999,151,1021,172,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1488.jpg 1003,145,1030,168,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1489.jpg 1008,137,1038,163,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\149.jpg 1195,273,1303,376,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1490.jpg 1012,132,1040,158,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1491.jpg 1020,122,1047,149,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1492.jpg 1024,116,1054,147,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1493.jpg 1029,111,1065,145,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1494.jpg 1037,108,1071,138,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1495.jpg 1041,103,1079,135,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1496.jpg 1044,98,1079,133,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1497.jpg 1044,88,1081,127,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1498.jpg 1043,82,1086,121,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1499.jpg 1043,67,1086,113,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\15.jpg 114,462,143,491,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\150.jpg 844,450,865,471,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1500.jpg 1047,52,1088,99,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1501.jpg 1055,41,1105,88,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1502.jpg 1073,20,1121,73,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1503.jpg 1091,1,1150,59,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1504.jpg 976,135,1012,172,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1508.jpg 977,128,1012,163,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1509.jpg 977,127,1014,162,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\151.jpg 857,447,878,468,1 472,455,492,475,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1510.jpg 978,134,1018,174,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1511.jpg 974,144,1019,181,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1512.jpg 972,145,1013,186,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1513.jpg 964,144,1012,186,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1514.jpg 954,141,1000,185,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1515.jpg 943,144,996,187,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1516.jpg 936,144,987,195,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1517.jpg 928,145,976,194,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1518.jpg 918,136,978,192,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1519.jpg 913,130,972,180,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\152.jpg 845,431,869,456,1 208,454,227,476,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1520.jpg 914,120,972,174,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1521.jpg 918,100,977,163,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1522.jpg 921,89,990,152,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1523.jpg 932,80,1005,148,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1524.jpg 943,68,1023,145,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1525.jpg 958,51,1046,131,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1526.jpg 978,37,1065,123,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1527.jpg 1007,36,1099,131,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1528.jpg 1042,40,1136,145,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1529.jpg 1071,32,1187,146,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\153.jpg 1213,421,1244,452,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1530.jpg 1131,6,1248,143,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1532.jpg 787,144,814,178,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1533.jpg 792,148,821,180,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1534.jpg 798,144,832,179,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1535.jpg 807,133,841,169,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1536.jpg 820,127,856,165,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1537.jpg 829,123,872,161,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1538.jpg 844,113,888,154,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1539.jpg 865,101,906,145,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\154.jpg 909,445,931,471,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1540.jpg 881,92,930,134,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1541.jpg 902,78,954,126,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1542.jpg 929,65,978,116,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1543.jpg 951,55,1008,108,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1544.jpg 979,36,1041,101,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1545.jpg 1017,16,1082,88,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1546.jpg 1052,1,1121,77,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1547.jpg 738,203,759,227,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1548.jpg 739,199,762,222,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1549.jpg 742,197,768,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\155.jpg 911,326,959,369,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1550.jpg 747,192,768,221,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1551.jpg 752,192,773,221,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1552.jpg 754,194,785,222,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1553.jpg 755,196,793,226,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1554.jpg 762,197,790,223,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1555.jpg 764,193,792,222,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1556.jpg 769,192,800,223,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1557.jpg 775,190,803,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1558.jpg 776,188,809,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1559.jpg 786,183,813,211,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\156.jpg 1170,274,1239,339,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1560.jpg 783,178,821,211,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1561.jpg 788,175,825,207,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1562.jpg 792,176,829,210,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1563.jpg 796,176,831,211,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1564.jpg 800,178,837,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1565.jpg 801,176,847,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1566.jpg 809,177,849,214,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1567.jpg 810,173,854,214,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1568.jpg 818,169,856,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1569.jpg 821,169,872,208,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\157.jpg 1202,330,1246,373,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1570.jpg 828,160,877,208,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1571.jpg 839,158,882,203,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1572.jpg 841,152,892,202,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1573.jpg 843,144,901,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1574.jpg 856,141,915,195,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1575.jpg 863,136,936,195,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1576.jpg 873,128,943,194,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1577.jpg 882,123,953,188,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1578.jpg 895,116,970,190,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1579.jpg 911,110,979,184,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\158.jpg 722,268,786,331,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1580.jpg 924,107,1001,180,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1581.jpg 936,100,1021,182,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1582.jpg 951,91,1040,185,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1583.jpg 966,82,1053,177,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1584.jpg 983,70,1084,188,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1585.jpg 1002,61,1104,172,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1586.jpg 1019,49,1127,174,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1587.jpg 1044,39,1160,169,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1588.jpg 1070,21,1187,161,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1589.jpg 1093,1,1221,150,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\159.jpg 1042,38,1150,139,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1590.jpg 1126,3,1260,147,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1591.jpg 720,193,747,220,1 197,193,219,219,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1592.jpg 720,193,751,219,1 184,191,202,217,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1593.jpg 723,192,750,221,1 166,195,187,220,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1594.jpg 724,192,752,221,1 150,194,175,219,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1595.jpg 724,188,754,220,1 129,190,157,216,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1596.jpg 110,187,133,214,1 726,185,755,212,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1597.jpg 90,184,112,215,1 725,181,764,214,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1598.jpg 66,183,87,213,1 732,179,760,212,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1599.jpg 39,184,72,218,1 728,181,771,212,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\16.jpg 732,421,773,462,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\160.jpg 645,417,668,436,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1600.jpg 731,177,768,211,1 12,183,40,213,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1601.jpg 735,175,774,217,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1602.jpg 736,172,782,212,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1603.jpg 740,170,783,210,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1604.jpg 744,167,788,209,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1605.jpg 746,163,801,204,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1606.jpg 754,149,806,200,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1607.jpg 762,138,821,202,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1608.jpg 774,133,834,199,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1609.jpg 783,123,860,194,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\161.jpg 965,412,990,435,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1610.jpg 803,105,883,192,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1611.jpg 823,88,919,180,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1612.jpg 855,64,963,164,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1613.jpg 895,11,1041,153,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1615.jpg 747,199,768,218,1 276,206,298,228,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1616.jpg 751,197,773,220,1 266,207,292,226,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1617.jpg 754,192,777,218,1 255,205,278,225,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1618.jpg 756,197,783,218,1 244,204,267,229,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1619.jpg 759,197,786,219,1 234,202,255,226,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\162.jpg 805,458,830,481,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1620.jpg 764,192,791,221,1 223,202,243,230,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1621.jpg 764,196,796,217,1 209,204,229,227,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1622.jpg 771,189,803,222,1 194,201,219,225,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1623.jpg 774,192,804,219,1 184,199,206,227,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1624.jpg 783,189,810,219,1 167,199,190,224,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1625.jpg 785,188,818,220,1 149,200,176,223,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1626.jpg 790,186,819,219,1 135,196,157,225,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1627.jpg 793,186,827,217,1 118,196,140,220,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1628.jpg 799,181,833,213,1 97,192,123,221,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1629.jpg 806,182,840,213,1 77,189,100,220,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\163.jpg 860,389,888,416,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1630.jpg 812,180,848,215,1 58,190,84,219,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1631.jpg 819,173,861,214,1 37,188,62,219,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1632.jpg 826,172,866,212,1 16,187,37,219,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1633.jpg 832,171,880,213,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1634.jpg 844,170,890,214,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1635.jpg 853,165,900,213,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1636.jpg 863,164,912,213,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1637.jpg 873,160,927,212,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1638.jpg 893,162,943,209,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1639.jpg 906,150,965,210,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\164.jpg 892,396,919,420,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1640.jpg 925,141,987,209,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1641.jpg 948,134,1018,211,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1642.jpg 968,125,1054,204,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1643.jpg 1007,118,1086,203,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1644.jpg 1046,107,1132,198,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1645.jpg 1094,89,1187,199,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1646.jpg 1153,74,1254,192,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1647.jpg 1232,47,1334,188,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1648.jpg 236,168,265,197,2 806,161,829,185,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1649.jpg 217,166,251,193,2 808,156,836,184,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\165.jpg 1235,280,1296,334,1 236,332,304,390,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1650.jpg 205,166,231,193,2 810,153,840,182,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1651.jpg 812,150,849,179,2 187,165,213,190,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1652.jpg 818,145,851,178,2 168,161,197,191,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1653.jpg 152,160,179,192,2 824,142,855,177,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1654.jpg 129,159,163,188,2 830,143,865,175,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1655.jpg 107,156,147,193,2 837,140,869,172,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1656.jpg 94,155,121,188,2 843,133,876,169,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1657.jpg 73,154,107,186,2 847,131,877,166,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1658.jpg 51,150,86,185,2 852,132,891,166,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1659.jpg 34,151,69,185,2 858,127,899,165,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\166.jpg 1092,343,1132,382,1 259,373,298,404,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1660.jpg 12,146,50,185,2 868,125,905,160,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1661.jpg 1,148,25,183,2 876,122,911,159,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1662.jpg 878,120,926,155,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1663.jpg 888,114,929,149,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1664.jpg 898,106,937,151,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1665.jpg 904,104,949,149,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1666.jpg 913,99,956,144,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1667.jpg 917,95,971,144,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1668.jpg 922,82,975,139,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1669.jpg 933,80,984,139,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\167.jpg 978,396,1012,428,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1670.jpg 947,78,992,134,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1671.jpg 946,77,1005,132,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1672.jpg 957,69,1014,127,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1673.jpg 962,65,1023,127,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1674.jpg 976,63,1029,127,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1675.jpg 981,60,1038,123,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1676.jpg 987,60,1043,118,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1677.jpg 991,54,1048,112,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1678.jpg 999,48,1055,113,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1679.jpg 1002,53,1061,106,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\168.jpg 917,354,955,392,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1680.jpg 1005,49,1067,109,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1681.jpg 1010,44,1075,108,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1682.jpg 1011,43,1080,108,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1683.jpg 1011,42,1079,106,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1684.jpg 1018,45,1085,110,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1685.jpg 1021,44,1080,105,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1686.jpg 1017,43,1079,105,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1687.jpg 1029,43,1076,102,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1688.jpg 1021,47,1085,113,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1689.jpg 1015,46,1090,118,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\169.jpg 1134,357,1181,409,2 1054,392,1089,424,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1690.jpg 1014,46,1086,112,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1691.jpg 1017,46,1080,113,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1692.jpg 1020,51,1081,113,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1693.jpg 1017,46,1084,112,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1694.jpg 1021,47,1084,110,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1695.jpg 1019,44,1084,121,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1696.jpg 1014,43,1087,118,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1697.jpg 1023,41,1080,116,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1698.jpg 1022,44,1079,113,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1699.jpg 1020,48,1082,110,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\17.jpg 451,411,491,451,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\170.jpg 985,394,1017,426,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1700.jpg 1019,44,1080,112,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1701.jpg 1021,45,1080,114,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1702.jpg 1016,47,1079,113,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1703.jpg 1021,48,1083,115,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1704.jpg 1021,45,1080,113,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1705.jpg 1019,45,1080,116,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1706.jpg 1012,50,1088,115,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1707.jpg 1021,40,1078,116,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1708.jpg 1016,45,1087,111,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1709.jpg 1020,46,1080,114,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\171.jpg 1178,112,1285,221,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1710.jpg 1021,44,1082,119,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1711.jpg 1022,47,1081,117,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1712.jpg 1020,51,1085,110,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1713.jpg 1017,43,1082,115,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1714.jpg 1016,44,1083,110,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1715.jpg 1019,44,1080,117,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1716.jpg 1020,41,1083,114,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1717.jpg 1018,49,1081,108,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1718.jpg 1019,45,1087,116,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1719.jpg 1016,45,1083,116,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\172.jpg 980,273,1066,349,2 990,350,1055,405,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1720.jpg 1019,48,1085,110,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1721.jpg 1017,44,1082,115,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1722.jpg 1013,46,1087,113,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1723.jpg 1010,42,1088,113,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1724.jpg 1021,50,1086,112,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1725.jpg 1020,46,1078,115,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1726.jpg 1019,47,1083,117,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1727.jpg 1019,47,1087,114,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1728.jpg 1018,45,1085,119,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1729.jpg 1022,39,1086,108,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\173.jpg 1088,303,1147,361,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1730.jpg 1020,44,1080,113,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1731.jpg 1024,49,1078,110,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1732.jpg 1017,44,1085,113,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1733.jpg 1019,45,1085,112,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1734.jpg 1018,44,1082,114,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1735.jpg 1021,46,1084,111,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\174.jpg 1013,359,1045,390,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\175.jpg 1115,369,1154,413,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\176.jpg 983,440,1009,462,1 414,458,433,479,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\177.jpg 1295,394,1327,427,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\178.jpg 1131,385,1167,423,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\179.jpg 980,423,1013,454,1 317,447,343,476,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\18.jpg 967,385,1025,443,1 101,375,155,429,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\180.jpg 1142,368,1198,413,1 30,409,73,457,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\181.jpg 1240,383,1272,421,1 463,408,497,443,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1812.jpg 1054,178,1098,224,0 793,74,844,122,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1813.jpg 792,80,844,120,2 1057,180,1099,221,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1814.jpg 793,77,843,123,2 1055,180,1099,222,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\1815.jpg 795,75,845,121,2 1054,178,1100,226,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\182.jpg 1233,260,1321,337,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\183.jpg 781,419,803,443,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\184.jpg 1074,322,1125,366,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\185.jpg 1186,384,1217,416,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\186.jpg 1161,357,1205,401,1 179,387,224,431,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\187.jpg 1294,391,1332,426,1 613,425,656,459,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\188.jpg 124,269,227,378,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\189.jpg 1214,399,1249,436,1 394,453,433,482,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\19.jpg 679,442,709,472,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\190.jpg 994,421,1024,446,1 697,438,721,459,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\191.jpg 1202,403,1251,451,1 572,434,613,482,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\192.jpg 1168,328,1208,372,1 338,409,381,445,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\193.jpg 1050,311,1120,384,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\194.jpg 752,389,810,446,3 113,413,182,479,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\195.jpg 762,436,797,470,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\196.jpg 902,410,933,438,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\197.jpg 999,425,1031,456,1 506,427,536,453,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\198.jpg 628,440,662,482,1 970,412,1023,464,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\199.jpg 822,542,858,567,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2.jpg 741,443,765,467,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\20.jpg 677,439,714,476,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\200.jpg 926,463,995,532,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\201.jpg 800,411,885,496,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\202.jpg 885,543,911,569,1 292,541,324,573,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\203.jpg 950,523,992,565,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\204.jpg 510,532,539,561,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\205.jpg 318,494,372,548,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\206.jpg 880,560,904,584,1 467,561,492,586,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\207.jpg 1034,486,1080,532,1 253,498,300,545,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\208.jpg 408,483,450,525,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\209.jpg 233,488,277,532,1 1027,504,1066,543,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\21.jpg 1135,395,1166,426,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\210.jpg 381,460,431,510,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2100.jpg 795,80,845,121,2 1058,184,1099,223,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2101.jpg 794,75,848,120,2 1055,180,1101,225,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2102.jpg 797,75,843,122,2 1059,178,1101,224,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2103.jpg 792,80,845,122,2 1055,181,1106,225,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2104.jpg 792,77,849,122,2 1056,180,1105,225,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2105.jpg 796,78,850,116,2 1060,179,1105,226,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2106.jpg 794,72,849,124,2 1063,182,1101,231,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2107.jpg 797,80,849,124,2 1062,183,1104,226,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2108.jpg 795,77,851,125,2 1065,182,1104,234,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2109.jpg 799,79,848,124,2 1066,186,1112,231,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\211.jpg 875,531,897,553,1 521,545,541,565,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2110.jpg 796,82,846,126,2 1070,188,1107,228,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2111.jpg 801,74,859,125,2 1071,186,1115,231,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2112.jpg 803,79,851,122,2 1075,186,1122,235,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2113.jpg 802,75,858,124,2 1078,185,1127,234,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2114.jpg 805,73,863,123,2 1090,188,1130,233,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2115.jpg 810,71,860,120,2 1090,181,1141,235,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2116.jpg 809,63,874,119,2 1100,181,1149,235,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2117.jpg 812,64,869,117,2 1110,181,1153,232,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2118.jpg 817,61,878,112,2 1112,181,1170,234,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2119.jpg 822,47,884,112,2 1124,181,1174,238,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\212.jpg 881,535,906,560,1 441,529,467,555,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2120.jpg 825,53,887,108,2 1134,180,1178,233,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2121.jpg 832,47,891,101,2 1148,179,1194,231,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2122.jpg 836,42,903,99,2 1159,177,1212,236,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2123.jpg 840,35,909,101,2 1171,177,1226,235,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2124.jpg 851,19,918,95,2 1191,175,1241,233,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2125.jpg 854,20,937,85,2 1201,175,1260,234,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2126.jpg 1222,175,1282,233,0 866,12,938,78,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2127.jpg 873,4,950,72,2 1242,173,1302,231,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2128.jpg 886,1,957,55,2 1269,168,1324,232,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2129.jpg 1290,164,1351,233,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\213.jpg 317,517,375,575,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2130.jpg 1314,159,1376,234,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2131.jpg 1349,159,1392,227,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2135.jpg 733,190,755,214,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2136.jpg 736,189,760,210,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\214.jpg 977,485,1021,529,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\215.jpg 820,512,854,546,1 167,517,200,550,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\216.jpg 671,564,697,590,2 999,526,1033,558,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\217.jpg 1229,517,1258,550,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\218.jpg 1133,502,1175,546,1 240,492,281,533,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\219.jpg 23,242,152,365,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\22.jpg 1119,443,1143,467,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\220.jpg 1059,443,1110,488,1 190,459,233,506,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\221.jpg 953,542,976,568,1 552,536,577,560,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\222.jpg 1210,493,1253,535,1 445,487,489,528,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\223.jpg 1202,416,1267,480,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\224.jpg 979,528,1019,569,1 269,531,309,570,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\225.jpg 1280,496,1338,553,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\226.jpg 1221,492,1271,540,1 455,502,507,551,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\227.jpg 354,444,425,510,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\228.jpg 998,468,1050,518,1 192,484,240,535,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\229.jpg 945,523,983,560,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\23.jpg 934,168,1022,256,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\230.jpg 769,538,796,562,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\231.jpg 1122,495,1167,541,1 420,497,465,540,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\232.jpg 937,532,970,561,1 569,538,592,565,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\233.jpg 334,414,401,478,1 1255,417,1315,471,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\234.jpg 358,445,413,500,1 1250,398,1323,470,2 1251,472,1319,526,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2347.jpg 770,210,791,230,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2348.jpg 776,210,794,228,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2349.jpg 777,209,799,232,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\235.jpg 1002,500,1048,548,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2350.jpg 781,206,805,228,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2351.jpg 785,202,812,225,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2352.jpg 788,202,816,225,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2353.jpg 797,200,822,226,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2354.jpg 802,198,833,229,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2355.jpg 816,197,841,227,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2356.jpg 821,194,857,226,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2357.jpg 830,191,873,227,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2358.jpg 842,192,887,229,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2359.jpg 858,187,903,232,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\236.jpg 1034,484,1089,529,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2360.jpg 876,184,929,232,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2361.jpg 899,178,952,230,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2362.jpg 925,169,982,226,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2363.jpg 956,163,1027,230,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2364.jpg 1008,158,1075,233,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2365.jpg 1065,148,1146,239,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2366.jpg 1147,134,1245,242,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2367.jpg 1276,114,1359,244,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2368.jpg 909,19,998,102,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2369.jpg 910,19,993,99,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\237.jpg 1033,423,1088,470,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2370.jpg 908,18,997,104,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2371.jpg 905,21,997,100,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\238.jpg 815,503,850,542,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\239.jpg 979,492,1024,536,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2397.jpg 906,13,1000,109,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\24.jpg 1012,202,1135,325,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\240.jpg 831,542,850,564,1 360,547,383,571,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\241.jpg 949,551,977,584,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\242.jpg 900,500,946,543,1 301,503,345,543,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\243.jpg 292,378,387,484,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2432.jpg 924,6,1017,98,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2433.jpg 930,3,1023,97,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2434.jpg 932,2,1029,90,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2435.jpg 938,4,1034,86,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2436.jpg 941,1,1048,83,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2437.jpg 957,1,1054,72,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2438.jpg 957,1,1067,77,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2439.jpg 966,1,1074,77,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\244.jpg 937,543,967,573,1 327,546,354,576,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\245.jpg 929,408,1015,492,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\246.jpg 1142,495,1181,537,1 275,526,313,564,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\247.jpg 942,510,973,543,1 236,560,267,587,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2476.jpg 804,164,824,187,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2477.jpg 807,165,825,186,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2478.jpg 806,161,832,187,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2479.jpg 810,162,836,189,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\248.jpg 167,193,263,288,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2480.jpg 818,163,839,189,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2481.jpg 821,159,847,187,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2482.jpg 824,151,857,180,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2483.jpg 832,149,863,179,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2484.jpg 838,145,877,176,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2485.jpg 849,139,882,177,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2486.jpg 858,139,890,172,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2487.jpg 868,132,904,169,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2488.jpg 879,126,920,162,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2489.jpg 893,122,931,158,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\249.jpg 792,530,819,555,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2490.jpg 908,114,954,153,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2491.jpg 928,103,970,144,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2492.jpg 951,94,996,144,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2493.jpg 976,84,1022,136,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2494.jpg 1003,70,1059,124,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2495.jpg 1036,55,1101,117,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2496.jpg 1084,28,1146,100,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2497.jpg 1132,7,1202,75,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\25.jpg 1037,298,1097,358,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\250.jpg 1194,501,1254,566,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2500.jpg 871,120,899,152,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2501.jpg 874,111,907,144,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2502.jpg 876,104,920,141,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2503.jpg 885,97,922,133,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2504.jpg 887,90,925,123,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2505.jpg 892,81,933,120,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2506.jpg 899,71,945,111,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2507.jpg 908,60,954,103,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2508.jpg 919,47,969,93,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2509.jpg 922,30,982,81,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\251.jpg 1065,531,1113,580,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2510.jpg 943,21,999,73,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2511.jpg 957,3,1016,57,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2516.jpg 877,112,906,139,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2517.jpg 887,103,921,134,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2518.jpg 899,97,935,129,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2519.jpg 908,91,949,122,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\252.jpg 822,579,846,601,1 475,576,500,600,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2520.jpg 924,84,965,116,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2521.jpg 939,77,981,112,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2522.jpg 956,66,1002,107,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2523.jpg 976,56,1020,97,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2524.jpg 994,48,1041,88,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2525.jpg 1013,39,1067,83,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2526.jpg 1037,25,1099,78,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2527.jpg 1067,17,1128,66,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2528.jpg 1098,1,1158,53,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\253.jpg 973,571,1001,603,1 389,569,425,601,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\254.jpg 1016,498,1068,545,1 210,518,260,561,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2541.jpg 728,192,754,214,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2542.jpg 732,192,754,214,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2543.jpg 734,191,760,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2544.jpg 734,188,760,210,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2545.jpg 738,185,764,212,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2546.jpg 734,184,767,211,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2547.jpg 740,184,766,212,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2548.jpg 742,182,768,210,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2549.jpg 743,186,770,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\255.jpg 1180,406,1264,496,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2550.jpg 743,187,777,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2551.jpg 744,189,780,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2552.jpg 747,188,786,221,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2553.jpg 750,185,787,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2554.jpg 752,179,787,214,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2555.jpg 754,178,792,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2556.jpg 757,176,793,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2557.jpg 760,176,800,213,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2558.jpg 758,177,805,213,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2559.jpg 761,175,808,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\256.jpg 817,448,852,484,0 217,467,251,503,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2560.jpg 769,170,811,214,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2561.jpg 770,166,818,210,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2562.jpg 775,158,822,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2563.jpg 779,154,830,206,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2564.jpg 781,150,839,205,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2565.jpg 783,143,853,206,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2566.jpg 793,142,857,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2567.jpg 796,140,869,203,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2568.jpg 809,132,877,201,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2569.jpg 818,126,892,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\257.jpg 421,413,478,470,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2570.jpg 829,116,914,197,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2571.jpg 843,105,928,187,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2572.jpg 859,93,956,191,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2573.jpg 877,81,985,190,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2574.jpg 899,67,1013,185,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2575.jpg 925,49,1057,188,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2576.jpg 961,24,1107,171,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2577.jpg 1004,1,1163,164,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2578.jpg 795,177,826,205,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2579.jpg 799,175,828,198,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\258.jpg 1242,417,1303,476,1 518,465,553,506,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2580.jpg 803,170,825,197,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2581.jpg 805,169,831,197,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2582.jpg 806,167,832,194,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2583.jpg 805,165,840,198,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2584.jpg 814,164,841,192,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2585.jpg 817,161,849,194,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2586.jpg 821,160,854,189,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2587.jpg 828,157,859,191,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2588.jpg 834,158,865,188,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2589.jpg 839,153,874,188,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\259.jpg 992,494,1020,525,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2590.jpg 845,153,883,188,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2591.jpg 854,153,887,187,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2592.jpg 859,152,893,186,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2593.jpg 870,149,907,184,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2594.jpg 881,147,917,181,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2595.jpg 893,141,926,188,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2596.jpg 899,138,938,179,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2597.jpg 909,133,952,173,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2598.jpg 921,127,966,177,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2599.jpg 933,126,976,170,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\26.jpg 755,404,785,434,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\260.jpg 831,454,858,485,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2600.jpg 946,126,990,166,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2601.jpg 961,119,1004,168,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2602.jpg 966,113,1022,166,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2603.jpg 984,110,1033,163,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2604.jpg 993,106,1049,162,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2605.jpg 1009,102,1057,159,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2606.jpg 1017,98,1076,156,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2607.jpg 1027,99,1086,160,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2608.jpg 1036,95,1100,159,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2609.jpg 1043,93,1108,157,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\261.jpg 1229,264,1307,332,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2610.jpg 1049,91,1109,154,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2611.jpg 1057,84,1117,151,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2612.jpg 1063,79,1127,147,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2613.jpg 1069,77,1133,142,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2614.jpg 1078,72,1139,140,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2615.jpg 1081,68,1148,136,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2616.jpg 1086,62,1158,137,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2617.jpg 1093,61,1164,137,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2618.jpg 1101,57,1176,126,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2619.jpg 1103,54,1176,133,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\262.jpg 1241,306,1331,395,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2620.jpg 1109,55,1183,131,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2621.jpg 1114,53,1188,125,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2622.jpg 1120,49,1194,130,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2623.jpg 1121,44,1192,133,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2624.jpg 1124,44,1200,123,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2625.jpg 1129,41,1207,124,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2626.jpg 1132,44,1207,124,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2627.jpg 1133,44,1210,121,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2628.jpg 1140,36,1215,127,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2629.jpg 1142,42,1220,122,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\263.jpg 1216,397,1267,443,0 514,467,551,499,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2630.jpg 1143,39,1223,122,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2631.jpg 1146,33,1221,122,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2632.jpg 1153,34,1226,122,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2633.jpg 1148,33,1227,122,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2634.jpg 1149,36,1228,119,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\264.jpg 1135,502,1168,536,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\265.jpg 1127,508,1169,545,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\266.jpg 1133,218,1260,334,2 904,513,937,550,0 822,488,853,513,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\267.jpg 790,493,818,519,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2673.jpg 1154,36,1222,119,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\268.jpg 878,501,932,546,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2682.jpg 831,162,864,194,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2683.jpg 836,157,873,189,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2684.jpg 844,155,883,196,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2685.jpg 856,160,889,196,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2686.jpg 865,161,906,197,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2687.jpg 878,155,921,204,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2688.jpg 888,151,935,195,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2689.jpg 903,149,947,188,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\269.jpg 1245,550,1274,583,1 512,568,552,601,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2690.jpg 917,143,959,181,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2691.jpg 932,129,984,177,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2692.jpg 947,119,999,170,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2693.jpg 964,113,1019,166,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2694.jpg 988,110,1043,168,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2695.jpg 1008,110,1068,171,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2696.jpg 1032,97,1096,166,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2697.jpg 1060,84,1128,151,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2698.jpg 1094,70,1164,142,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2699.jpg 1132,55,1205,133,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\27.jpg 1048,126,1171,249,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\270.jpg 1234,466,1316,549,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2700.jpg 1176,39,1252,124,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2701.jpg 1220,19,1308,109,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2702.jpg 1283,6,1362,103,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2703.jpg 887,56,982,142,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2704.jpg 894,55,984,149,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2705.jpg 891,55,978,149,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2706.jpg 890,55,985,153,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2707.jpg 890,54,989,146,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2708.jpg 894,52,986,140,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2709.jpg 890,51,988,144,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\271.jpg 1152,518,1190,560,1 162,517,200,554,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2710.jpg 896,54,988,144,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2711.jpg 894,53,991,144,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2712.jpg 896,53,986,143,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2713.jpg 899,52,998,143,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2714.jpg 900,54,996,139,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2715.jpg 902,52,1002,140,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2716.jpg 908,47,1000,138,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2717.jpg 910,45,1009,139,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2718.jpg 916,43,1013,147,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2719.jpg 920,43,1021,143,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\272.jpg 300,509,342,543,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2720.jpg 929,36,1028,138,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2721.jpg 939,34,1040,140,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2722.jpg 948,30,1053,139,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2723.jpg 960,25,1067,122,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2724.jpg 972,17,1081,123,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2725.jpg 987,12,1095,132,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2726.jpg 1000,4,1119,121,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2727.jpg 1021,3,1134,108,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\273.jpg 982,495,1027,537,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2736.jpg 826,202,848,230,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2737.jpg 827,199,854,223,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2738.jpg 831,191,855,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2739.jpg 831,185,865,212,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\274.jpg 1056,440,1104,497,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2740.jpg 839,173,865,206,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2741.jpg 836,168,874,201,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2742.jpg 843,168,873,201,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2743.jpg 845,166,880,202,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2744.jpg 850,166,887,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2745.jpg 855,165,890,203,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2746.jpg 861,164,893,200,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2747.jpg 862,162,899,200,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2748.jpg 871,159,911,196,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2749.jpg 873,155,916,195,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\275.jpg 733,526,769,564,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2750.jpg 883,153,928,193,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2751.jpg 888,151,933,193,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2752.jpg 896,143,942,189,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2753.jpg 908,144,951,187,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2754.jpg 914,141,965,187,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2755.jpg 925,132,973,184,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2756.jpg 938,137,984,181,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2757.jpg 948,126,1002,185,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2758.jpg 961,122,1015,178,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2759.jpg 976,122,1032,180,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\276.jpg 1179,534,1237,584,1 151,513,205,560,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2760.jpg 989,114,1050,177,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2761.jpg 1002,110,1074,174,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2762.jpg 1017,100,1086,171,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2763.jpg 1033,91,1110,166,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2764.jpg 1053,87,1133,158,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2765.jpg 1067,82,1154,157,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2766.jpg 1085,73,1179,161,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2767.jpg 1102,64,1201,167,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2768.jpg 710,191,736,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2769.jpg 714,198,732,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\277.jpg 408,518,467,576,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2770.jpg 718,197,739,221,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2771.jpg 720,203,742,223,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2772.jpg 724,205,744,227,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2773.jpg 726,201,750,226,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2774.jpg 730,196,754,222,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2775.jpg 732,195,756,222,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2776.jpg 737,191,760,220,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2777.jpg 736,193,765,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2778.jpg 739,192,766,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2779.jpg 742,188,766,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\278.jpg 842,512,873,543,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2780.jpg 742,187,769,213,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2781.jpg 745,182,774,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2782.jpg 749,186,777,211,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2783.jpg 752,186,781,212,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2784.jpg 754,182,786,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2785.jpg 760,180,787,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2786.jpg 760,177,799,213,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2787.jpg 768,177,804,210,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2788.jpg 774,176,811,210,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2789.jpg 782,172,813,210,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\279.jpg 1112,301,1218,397,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2790.jpg 787,169,822,211,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2791.jpg 791,174,834,210,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2792.jpg 800,167,843,214,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2793.jpg 806,165,848,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2794.jpg 810,166,860,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2795.jpg 820,155,866,210,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2796.jpg 821,164,877,205,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2797.jpg 832,155,883,207,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2798.jpg 843,156,895,205,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2799.jpg 849,152,898,205,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\28.jpg 772,402,816,446,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\280.jpg 512,496,554,535,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2800.jpg 856,151,907,203,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2801.jpg 862,145,915,205,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2802.jpg 869,145,927,208,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2803.jpg 880,143,939,201,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2804.jpg 885,135,953,207,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2805.jpg 897,129,965,204,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2806.jpg 907,125,982,198,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2807.jpg 929,118,1003,204,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2808.jpg 943,110,1030,193,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2809.jpg 965,97,1054,194,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\281.jpg 1012,494,1056,539,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2810.jpg 986,89,1087,200,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2811.jpg 1016,76,1118,198,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2812.jpg 1055,62,1157,186,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2813.jpg 1088,47,1199,172,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2814.jpg 1138,33,1254,177,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2815.jpg 1190,6,1315,157,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\282.jpg 951,501,1003,546,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2822.jpg 765,179,795,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2823.jpg 768,181,795,203,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2824.jpg 765,179,799,210,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2825.jpg 767,178,803,214,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2826.jpg 768,180,805,211,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2827.jpg 775,179,808,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2828.jpg 776,177,808,206,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2829.jpg 776,174,812,201,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\283.jpg 942,557,964,577,1 608,557,632,579,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2830.jpg 782,168,817,207,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2831.jpg 786,166,822,202,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2832.jpg 789,165,824,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2833.jpg 795,160,832,195,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2834.jpg 796,161,842,201,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2835.jpg 803,158,854,197,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2836.jpg 813,150,857,197,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2837.jpg 819,147,867,191,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2838.jpg 827,143,877,188,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2839.jpg 836,130,892,188,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\284.jpg 1053,478,1095,523,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2840.jpg 849,133,907,191,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2841.jpg 856,122,922,183,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2842.jpg 872,111,953,185,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2843.jpg 889,96,976,170,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2844.jpg 910,77,999,158,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2845.jpg 929,62,1028,157,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2846.jpg 958,44,1072,149,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2847.jpg 989,18,1132,146,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2848.jpg 1041,1,1177,135,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2849.jpg 793,180,821,208,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\285.jpg 1138,490,1183,528,1 230,485,269,521,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2850.jpg 797,177,830,207,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2851.jpg 802,173,833,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2852.jpg 808,174,843,208,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2853.jpg 817,174,853,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2854.jpg 826,170,863,206,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2855.jpg 835,172,875,207,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2856.jpg 844,165,886,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2857.jpg 852,165,897,206,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2858.jpg 861,160,902,200,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2859.jpg 868,154,915,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\286.jpg 144,498,204,559,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2860.jpg 879,150,926,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2861.jpg 894,148,948,197,0 763,177,782,192,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2862.jpg 899,143,955,202,0 765,173,779,193,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2863.jpg 912,140,960,195,0 763,174,782,194,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2864.jpg 759,169,780,192,1 919,142,981,192,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2865.jpg 755,168,778,190,1 925,132,990,185,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2866.jpg 749,168,770,190,1 936,125,988,187,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2867.jpg 945,115,1003,183,0 743,166,765,190,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2868.jpg 950,107,1022,181,0 739,166,762,189,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2869.jpg 733,163,754,184,1 968,103,1032,175,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\287.jpg 254,359,335,439,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2870.jpg 726,159,752,184,1 979,94,1056,179,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2871.jpg 993,80,1076,166,0 721,159,746,184,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2872.jpg 1009,75,1107,164,0 716,160,742,179,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2873.jpg 1032,64,1121,158,0 712,157,739,181,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2874.jpg 1053,50,1168,155,0 705,157,738,183,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2875.jpg 1084,40,1198,147,0 706,156,731,181,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2876.jpg 697,154,733,179,1 1112,21,1228,144,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2877.jpg 1146,6,1252,134,0 696,149,723,174,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2878.jpg 694,149,721,174,1 1189,1,1315,125,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2879.jpg 688,136,724,163,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\288.jpg 456,530,496,573,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2880.jpg 693,135,732,165,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2881.jpg 696,133,730,167,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2882.jpg 697,138,736,169,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2883.jpg 698,137,739,166,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2884.jpg 702,133,741,166,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2885.jpg 703,133,743,170,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2886.jpg 705,134,748,166,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2887.jpg 714,133,753,166,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2888.jpg 713,133,758,166,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2889.jpg 724,133,756,166,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\289.jpg 457,532,508,582,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2890.jpg 728,133,767,168,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2891.jpg 737,133,777,166,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2892.jpg 743,129,788,165,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2893.jpg 754,126,792,163,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2894.jpg 761,128,798,167,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2895.jpg 763,127,804,167,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2896.jpg 768,124,808,166,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2897.jpg 770,129,817,159,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2898.jpg 773,126,819,158,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2899.jpg 775,124,816,164,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\29.jpg 985,355,1029,399,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\290.jpg 943,562,981,597,1 375,572,410,605,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\291.jpg 184,527,243,590,1 1218,531,1278,584,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\292.jpg 986,335,1029,381,1 167,416,206,459,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\293.jpg 842,443,871,467,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\294.jpg 774,434,815,469,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\295.jpg 458,459,507,506,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\296.jpg 1038,175,1107,234,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\297.jpg 910,162,940,188,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2975.jpg 1081,110,1123,146,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2976.jpg 1112,104,1148,144,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2977.jpg 1139,101,1187,138,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2978.jpg 1178,92,1222,135,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2979.jpg 1215,88,1257,129,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\298.jpg 926,159,955,187,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2980.jpg 1261,87,1304,124,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2981.jpg 1307,88,1347,125,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2982.jpg 1360,82,1392,125,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2983.jpg 226,144,258,176,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2984.jpg 232,139,274,180,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2985.jpg 243,132,278,175,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2986.jpg 257,133,299,172,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2987.jpg 280,134,316,174,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2988.jpg 303,132,338,177,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2989.jpg 331,129,367,170,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\299.jpg 944,154,974,185,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2990.jpg 364,126,404,168,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2991.jpg 398,118,446,164,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2992.jpg 443,110,482,162,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2993.jpg 480,112,528,159,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2994.jpg 524,110,571,158,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2995.jpg 568,103,624,157,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2996.jpg 619,93,666,146,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2997.jpg 665,83,721,140,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2998.jpg 720,77,772,133,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\2999.jpg 773,61,829,121,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3.jpg 906,408,961,463,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\30.jpg 940,337,976,373,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\300.jpg 961,149,997,182,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3000.jpg 830,44,889,105,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3001.jpg 887,26,954,97,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3002.jpg 959,11,1023,89,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3003.jpg 1035,2,1098,78,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3004.jpg 732,195,759,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3005.jpg 732,195,762,221,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3006.jpg 734,198,757,221,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3007.jpg 732,197,760,220,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3008.jpg 731,193,759,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3009.jpg 731,192,757,220,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\301.jpg 986,139,1021,178,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3010.jpg 731,188,759,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3011.jpg 731,188,759,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3012.jpg 734,191,756,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3013.jpg 732,187,755,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3014.jpg 733,186,756,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3015.jpg 732,182,761,212,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3016.jpg 735,177,767,210,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3017.jpg 742,175,767,205,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3018.jpg 738,173,779,206,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3019.jpg 749,177,777,207,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\302.jpg 1008,129,1054,173,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3020.jpg 754,176,785,211,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3021.jpg 763,179,796,208,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3022.jpg 769,179,803,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3023.jpg 779,174,811,208,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3024.jpg 787,170,821,207,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3025.jpg 791,167,832,206,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3026.jpg 806,165,839,206,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3027.jpg 804,162,861,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3028.jpg 821,159,861,205,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3029.jpg 827,160,873,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\303.jpg 1043,123,1085,167,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3030.jpg 835,156,876,206,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3031.jpg 843,155,893,205,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3032.jpg 851,153,901,205,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3033.jpg 858,149,915,201,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3034.jpg 865,147,928,201,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3035.jpg 874,142,940,197,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3036.jpg 886,136,949,200,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3037.jpg 892,132,954,198,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3038.jpg 901,127,976,202,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3039.jpg 914,121,978,197,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\304.jpg 1081,114,1127,164,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3040.jpg 929,117,998,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3041.jpg 932,111,1010,196,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3042.jpg 948,106,1029,193,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3043.jpg 954,94,1047,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3044.jpg 974,88,1066,188,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3045.jpg 989,83,1086,186,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3046.jpg 1005,77,1108,183,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3047.jpg 1022,64,1121,174,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3048.jpg 1041,47,1151,169,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3049.jpg 1065,35,1181,170,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\305.jpg 1125,106,1176,161,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3050.jpg 1091,21,1209,161,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3051.jpg 1121,7,1244,149,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3052.jpg 1138,1,1273,139,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3055.jpg 810,178,832,198,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3056.jpg 815,166,845,199,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\306.jpg 1187,94,1242,155,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3062.jpg 873,150,905,184,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3063.jpg 882,144,917,180,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3064.jpg 902,138,932,171,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3065.jpg 915,131,956,166,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3066.jpg 933,122,985,166,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3067.jpg 960,116,1007,164,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3068.jpg 986,103,1038,159,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3069.jpg 1023,94,1070,148,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\307.jpg 1249,75,1315,148,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3070.jpg 1054,87,1111,140,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3071.jpg 1099,62,1168,129,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3072.jpg 1158,50,1224,117,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3073.jpg 1222,34,1296,109,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3074.jpg 1305,7,1371,95,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3075.jpg 18,156,48,198,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3076.jpg 35,152,75,198,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3077.jpg 62,149,96,188,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3078.jpg 87,137,123,184,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3079.jpg 116,134,155,182,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\308.jpg 1338,59,1392,132,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3080.jpg 147,124,187,173,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3081.jpg 180,121,221,167,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3082.jpg 220,110,258,157,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3083.jpg 254,103,300,150,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3084.jpg 296,95,344,144,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3085.jpg 337,86,386,138,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3086.jpg 383,80,432,132,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3087.jpg 432,76,484,127,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3088.jpg 481,66,541,125,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3089.jpg 532,63,599,117,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\309.jpg 754,171,786,200,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3090.jpg 600,52,658,114,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3091.jpg 660,44,730,107,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3092.jpg 729,28,805,106,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3093.jpg 802,12,875,88,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3094.jpg 728,188,752,211,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3095.jpg 730,188,754,211,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3096.jpg 734,191,761,211,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3097.jpg 735,188,764,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3098.jpg 739,188,765,212,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3099.jpg 743,181,770,206,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\31.jpg 971,221,1036,286,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\310.jpg 758,166,797,197,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3100.jpg 746,174,769,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3101.jpg 746,169,775,194,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3102.jpg 751,169,784,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3103.jpg 756,179,786,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3104.jpg 762,183,794,212,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3105.jpg 761,186,794,210,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3106.jpg 765,177,796,205,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3107.jpg 767,166,799,200,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3108.jpg 766,161,806,198,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3109.jpg 773,167,807,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\311.jpg 768,159,807,194,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3110.jpg 773,168,814,200,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3111.jpg 774,165,818,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3112.jpg 784,158,819,194,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3113.jpg 787,157,830,192,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3114.jpg 792,153,834,194,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3115.jpg 799,153,836,193,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3116.jpg 804,157,845,193,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3117.jpg 809,150,857,194,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3118.jpg 814,144,862,187,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3119.jpg 823,140,871,181,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\312.jpg 779,158,815,189,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3120.jpg 833,133,880,184,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3121.jpg 841,133,889,183,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3122.jpg 850,127,903,176,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3123.jpg 858,122,912,172,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3124.jpg 869,119,922,171,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3125.jpg 882,117,940,167,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3126.jpg 887,110,960,170,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3127.jpg 905,110,964,165,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3128.jpg 921,101,993,167,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3129.jpg 935,97,1000,163,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\313.jpg 789,147,830,187,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3130.jpg 948,89,1023,160,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3131.jpg 964,79,1045,155,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3132.jpg 988,68,1059,147,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3133.jpg 1004,55,1099,145,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3134.jpg 1031,44,1124,134,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3135.jpg 1055,29,1153,125,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3136.jpg 1087,13,1183,121,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3137.jpg 1120,2,1224,111,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3138.jpg 742,161,764,182,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3139.jpg 745,160,765,181,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\314.jpg 799,137,851,183,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3140.jpg 744,155,770,178,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3141.jpg 747,156,771,177,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3142.jpg 751,151,774,177,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3143.jpg 755,148,776,171,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3144.jpg 755,146,782,168,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3145.jpg 758,142,786,166,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3146.jpg 763,133,791,164,2 357,194,374,216,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3147.jpg 765,133,799,161,2 346,190,363,217,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3148.jpg 773,128,799,156,2 332,193,354,218,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3149.jpg 775,122,809,155,2 320,191,336,217,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\315.jpg 815,128,874,178,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3150.jpg 781,115,812,149,2 307,191,323,215,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3151.jpg 788,114,821,142,2 287,188,312,217,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3152.jpg 792,101,833,142,2 277,188,297,215,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3153.jpg 799,92,836,132,2 263,185,283,210,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3154.jpg 803,84,852,122,2 247,182,268,210,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3155.jpg 813,75,863,115,2 230,180,254,210,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3156.jpg 821,57,874,107,2 213,176,236,208,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3157.jpg 833,46,889,95,2 199,177,219,203,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3158.jpg 850,27,907,87,2 179,175,206,207,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3159.jpg 864,4,932,69,2 165,176,191,209,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\316.jpg 837,111,900,170,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3160.jpg 147,177,173,210,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3161.jpg 142,172,175,211,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3162.jpg 146,173,175,206,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3163.jpg 156,170,189,206,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3164.jpg 165,167,203,206,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3165.jpg 185,163,223,204,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3166.jpg 205,158,240,201,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3167.jpg 227,155,264,196,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3168.jpg 253,149,288,190,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3169.jpg 276,139,325,181,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\317.jpg 865,92,939,158,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3170.jpg 313,130,351,178,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3171.jpg 343,123,393,176,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3172.jpg 384,114,432,166,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3173.jpg 423,102,472,154,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3174.jpg 465,89,520,144,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3175.jpg 512,82,565,134,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3176.jpg 558,73,622,131,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3177.jpg 615,58,676,127,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3178.jpg 674,49,740,121,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3179.jpg 735,36,803,106,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\318.jpg 910,63,994,141,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3180.jpg 795,22,876,99,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3181.jpg 867,11,954,88,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3182.jpg 205,180,238,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3183.jpg 240,182,272,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3184.jpg 273,179,305,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3185.jpg 310,173,344,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3186.jpg 346,170,383,206,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3187.jpg 385,169,427,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3188.jpg 426,171,465,204,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3189.jpg 472,172,503,209,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\319.jpg 980,19,1085,118,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3190.jpg 514,166,551,207,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3191.jpg 559,166,597,205,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3192.jpg 604,160,649,206,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3193.jpg 652,156,694,196,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3194.jpg 695,150,742,193,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3195.jpg 740,147,790,193,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3196.jpg 781,144,841,199,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3197.jpg 821,150,876,195,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3198.jpg 851,150,909,204,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3199.jpg 879,146,939,208,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\32.jpg 831,284,880,333,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\320.jpg 1328,211,1345,233,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3200.jpg 899,151,961,204,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3201.jpg 921,139,980,207,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3202.jpg 939,137,998,198,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3203.jpg 951,129,1014,194,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3204.jpg 967,121,1037,189,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3205.jpg 987,115,1061,185,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3206.jpg 1002,106,1077,180,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3207.jpg 1019,102,1101,188,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3208.jpg 1037,89,1126,179,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3209.jpg 1054,80,1143,172,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\321.jpg 1287,213,1303,231,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3210.jpg 1075,67,1165,168,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3211.jpg 1096,55,1204,172,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3212.jpg 1122,43,1243,167,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3213.jpg 1152,27,1261,151,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3214.jpg 1182,7,1318,151,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3215.jpg 1231,1,1356,143,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3216.jpg 898,187,919,208,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3217.jpg 901,184,926,206,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3218.jpg 908,182,936,207,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3219.jpg 915,179,939,203,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\322.jpg 1245,214,1264,232,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3220.jpg 922,177,948,201,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3221.jpg 931,174,955,199,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3222.jpg 938,171,965,196,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3223.jpg 945,170,975,195,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3224.jpg 954,166,984,198,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3225.jpg 963,160,995,194,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3226.jpg 976,158,1009,188,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3227.jpg 987,156,1023,188,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3228.jpg 1004,154,1040,188,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3229.jpg 1021,145,1053,190,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\323.jpg 1204,213,1222,231,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3230.jpg 1040,142,1078,183,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3231.jpg 1060,137,1106,177,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3232.jpg 1085,131,1133,173,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3233.jpg 1120,123,1169,167,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3234.jpg 1154,118,1200,159,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3235.jpg 1199,107,1247,148,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3236.jpg 1243,88,1302,148,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\3237.jpg 1299,68,1359,136,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\324.jpg 1163,212,1176,230,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\325.jpg 1117,211,1133,229,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\326.jpg 1071,208,1091,225,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\327.jpg 1027,206,1043,222,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\328.jpg 982,205,1001,221,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\329.jpg 942,202,959,222,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\33.jpg 1115,473,1146,504,1 975,443,1001,469,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\330.jpg 908,200,926,219,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\331.jpg 879,201,900,217,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\332.jpg 855,201,874,216,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\333.jpg 837,197,853,214,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\334.jpg 819,197,844,215,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\335.jpg 806,197,831,214,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\336.jpg 799,192,825,215,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\337.jpg 799,192,819,214,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\338.jpg 800,191,821,213,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\339.jpg 801,191,823,214,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\34.jpg 729,437,760,468,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\340.jpg 801,188,829,210,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\341.jpg 808,185,833,209,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\342.jpg 814,183,838,207,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\343.jpg 821,181,845,206,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\344.jpg 826,182,854,208,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\345.jpg 832,181,864,208,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\346.jpg 843,172,867,203,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\347.jpg 849,169,881,201,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\348.jpg 857,166,892,198,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\349.jpg 871,166,901,198,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\35.jpg 992,418,1040,466,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\350.jpg 883,164,916,197,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\351.jpg 897,156,936,195,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\352.jpg 912,153,954,195,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\353.jpg 936,145,979,188,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\354.jpg 961,134,1008,181,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\355.jpg 988,127,1040,179,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\356.jpg 1021,110,1077,166,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\357.jpg 1064,100,1127,163,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\358.jpg 1114,86,1183,155,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\359.jpg 1176,68,1248,140,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\36.jpg 788,399,822,433,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\360.jpg 1264,32,1349,117,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\361.jpg 850,183,872,208,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\362.jpg 859,182,881,206,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\363.jpg 864,181,890,205,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\364.jpg 874,178,899,203,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\365.jpg 879,176,911,203,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\366.jpg 894,173,923,203,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\367.jpg 903,172,932,202,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\368.jpg 917,169,949,203,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\369.jpg 930,168,960,197,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\37.jpg 795,404,855,460,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\370.jpg 946,166,985,200,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\371.jpg 961,162,998,197,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\372.jpg 981,153,1021,198,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\373.jpg 1001,152,1045,190,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\374.jpg 1029,150,1067,191,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\375.jpg 1057,144,1099,194,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\376.jpg 1088,139,1142,189,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\377.jpg 1131,123,1184,185,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\378.jpg 1179,112,1233,180,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\379.jpg 1241,101,1299,174,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\38.jpg 821,440,842,463,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\380.jpg 787,177,833,216,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\381.jpg 800,175,847,222,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\382.jpg 820,175,867,220,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\383.jpg 836,165,890,214,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\384.jpg 857,158,921,215,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\385.jpg 887,148,950,214,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\386.jpg 922,137,996,207,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\387.jpg 974,127,1048,199,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\388.jpg 1040,110,1122,191,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\389.jpg 1128,76,1226,190,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\39.jpg 1223,331,1291,395,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\390.jpg 1261,34,1376,167,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\4.jpg 925,350,989,414,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\40.jpg 786,449,809,468,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\403.jpg 831,181,847,202,1 565,196,587,218,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\404.jpg 843,175,861,198,1 563,195,579,214,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\405.jpg 855,173,875,197,1 560,196,577,213,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\406.jpg 869,172,890,197,1 554,195,575,217,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\407.jpg 883,168,909,197,1 551,192,570,218,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\408.jpg 900,164,925,192,1 541,194,569,215,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\409.jpg 920,155,946,188,1 537,191,560,215,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\41.jpg 850,460,875,481,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\410.jpg 943,151,968,183,1 529,190,554,213,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\411.jpg 969,146,1002,185,1 519,190,543,214,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\412.jpg 1003,142,1032,179,1 508,188,540,217,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\413.jpg 1041,131,1076,171,1 492,185,528,216,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\414.jpg 1086,116,1136,166,1 475,182,512,211,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\415.jpg 1153,99,1193,152,1 459,177,491,210,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\416.jpg 1228,77,1279,136,1 433,171,471,209,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\417.jpg 403,169,452,208,1 1330,52,1380,122,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\418.jpg 367,160,417,208,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\419.jpg 317,144,375,199,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\42.jpg 817,459,840,482,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\420.jpg 254,125,317,188,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\421.jpg 158,99,232,179,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\422.jpg 31,69,110,171,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\43.jpg 797,476,824,501,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\44.jpg 835,456,859,481,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\45.jpg 725,456,751,477,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\46.jpg 927,379,983,432,3 439,401,492,455,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\47.jpg 1132,408,1183,457,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\48.jpg 790,471,815,497,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\49.jpg 963,227,1045,303,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\5.jpg 777,425,815,463,2 784,461,814,488,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\50.jpg 1048,200,1154,306,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\51.jpg 845,429,875,456,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\52.jpg 944,301,1008,360,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\53.jpg 413,438,437,466,1 956,439,982,465,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\54.jpg 1027,440,1054,467,1 635,445,661,475,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\55.jpg 964,426,1008,467,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\56.jpg 1056,377,1100,414,0 871,444,899,469,0 512,381,552,421,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\57.jpg 718,441,739,461,0 420,421,450,450,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\58.jpg 1077,342,1118,386,1 343,402,377,434,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\59.jpg 700,462,721,482,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\6.jpg 925,467,949,490,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\60.jpg 289,326,336,370,0 1123,334,1167,380,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\61.jpg 594,283,669,349,0 1207,245,1296,324,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\62.jpg 833,403,892,463,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\63.jpg 933,313,989,365,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\64.jpg 849,348,899,398,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\65.jpg 697,460,727,492,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\66.jpg 488,537,534,578,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\67.jpg 993,485,1019,512,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\68.jpg 1092,466,1124,498,1 350,503,382,535,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\681.jpg 737,197,758,217,1 992,204,1011,222,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\682.jpg 756,195,777,216,1 1019,204,1036,222,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\683.jpg 782,193,801,218,1 1045,199,1065,222,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\684.jpg 806,194,826,213,1 1075,200,1093,221,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\685.jpg 835,191,857,214,1 1106,198,1127,220,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\686.jpg 865,190,888,214,1 1141,197,1161,218,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\687.jpg 900,188,918,212,1 1176,198,1199,219,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\688.jpg 934,188,952,213,1 1215,194,1233,216,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\689.jpg 970,185,996,210,1 1257,190,1276,218,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\69.jpg 1187,476,1224,513,1 367,472,398,509,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\690.jpg 1010,185,1035,210,1 1296,190,1321,214,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\691.jpg 1054,185,1076,210,1 1344,193,1363,215,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\692.jpg 1099,182,1122,207,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\693.jpg 1148,181,1166,205,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\694.jpg 1193,179,1219,203,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\695.jpg 1243,177,1269,201,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\696.jpg 1297,177,1318,199,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\697.jpg 1347,172,1371,200,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\7.jpg 1195,358,1272,437,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\70.jpg 1167,422,1233,487,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\71.jpg 851,215,951,321,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\72.jpg 1084,393,1121,430,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\73.jpg 60,241,167,351,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\74.jpg 94,306,187,414,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\75.jpg 523,491,550,525,1 1103,482,1134,514,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\76.jpg 532,480,560,509,1 980,473,1005,497,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\77.jpg 1017,307,1115,402,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\78.jpg 842,373,873,407,1 379,362,413,397,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\79.jpg 1007,376,1049,419,1 136,385,182,426,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\8.jpg 718,342,774,398,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\80.jpg 1147,398,1181,431,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\81.jpg 601,431,625,459,1 209,426,239,454,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\816.jpg 337,1,402,65,2 902,194,923,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\817.jpg 337,1,406,55,2 902,195,923,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\818.jpg 904,197,922,218,0 338,1,404,52,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\819.jpg 907,197,920,215,0 335,1,404,55,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\82.jpg 475,392,500,417,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\820.jpg 339,1,403,55,2 904,197,920,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\821.jpg 906,198,920,215,0 334,1,406,55,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\822.jpg 906,198,922,215,0 336,1,405,50,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\823.jpg 338,1,406,50,2 907,197,922,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\824.jpg 334,1,404,57,2 905,197,923,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\825.jpg 336,1,407,52,2 906,197,923,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\826.jpg 337,1,409,52,2 907,199,921,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\827.jpg 336,1,408,54,2 907,198,921,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\828.jpg 337,1,409,53,2 906,197,921,214,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\829.jpg 338,1,407,54,2 905,199,918,214,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\83.jpg 839,409,860,430,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\830.jpg 338,1,406,56,2 906,198,921,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\831.jpg 338,1,408,51,2 905,198,923,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\832.jpg 331,1,410,52,2 905,199,921,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\833.jpg 335,2,403,49,2 906,199,919,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\834.jpg 335,1,405,52,2 905,197,923,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\835.jpg 334,1,405,51,2 907,198,922,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\836.jpg 339,1,407,52,2 905,197,921,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\837.jpg 338,1,406,55,2 905,198,921,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\838.jpg 337,1,407,50,2 907,199,920,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\839.jpg 337,1,408,53,2 908,199,919,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\84.jpg 1008,300,1074,366,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\840.jpg 342,1,410,53,2 908,199,918,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\841.jpg 333,2,404,53,2 907,200,920,213,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\842.jpg 339,1,404,54,2 906,197,924,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\843.jpg 338,2,404,54,2 907,199,920,212,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\844.jpg 336,1,405,49,2 905,198,921,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\845.jpg 340,1,407,52,2 906,197,921,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\846.jpg 339,2,404,51,2 906,199,919,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\847.jpg 338,1,407,53,2 906,199,919,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\848.jpg 336,1,404,53,2 907,198,920,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\849.jpg 331,1,408,52,2 906,198,919,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\85.jpg 717,298,776,356,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\850.jpg 335,2,404,53,2 903,196,921,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\851.jpg 336,1,411,55,2 904,196,923,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\852.jpg 338,1,402,45,2 902,196,921,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\853.jpg 338,1,408,47,2 905,196,921,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\854.jpg 339,1,408,57,2 905,198,926,220,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\855.jpg 337,1,410,50,2 902,198,921,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\856.jpg 338,1,409,51,2 904,196,923,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\857.jpg 337,1,409,50,2 905,193,921,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\858.jpg 336,1,409,50,2 906,199,922,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\859.jpg 338,1,410,50,2 903,196,925,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\86.jpg 248,472,276,501,3  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\860.jpg 336,1,406,51,2 907,197,921,215,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\861.jpg 335,2,405,55,2 903,197,920,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\862.jpg 336,1,405,50,2 905,196,921,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\863.jpg 338,1,407,56,2 903,196,923,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\864.jpg 335,1,407,55,2 907,199,921,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\865.jpg 337,2,406,55,2 908,199,921,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\866.jpg 340,1,410,58,2 905,198,921,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\867.jpg 334,1,406,52,2 906,197,921,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\868.jpg 336,1,407,51,2 905,197,921,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\869.jpg 332,1,409,55,2 906,198,921,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\87.jpg 858,379,897,417,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\870.jpg 335,2,409,49,2 903,197,924,222,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\871.jpg 338,1,410,52,2 905,196,922,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\872.jpg 335,1,410,50,2 909,197,919,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\873.jpg 337,1,405,50,2 903,197,920,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\874.jpg 339,1,408,54,2 903,196,924,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\875.jpg 338,2,410,57,2 903,195,924,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\876.jpg 339,1,405,48,2 906,198,921,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\877.jpg 336,1,409,56,2 904,196,921,221,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\878.jpg 336,1,408,54,2 905,196,921,220,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\879.jpg 337,1,402,49,2 904,199,922,222,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\88.jpg 817,451,838,475,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\880.jpg 336,1,405,48,2 903,197,926,220,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\881.jpg 337,1,406,55,2 908,198,921,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\882.jpg 339,1,405,53,2 906,198,924,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\883.jpg 337,1,406,56,2 905,198,923,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\884.jpg 335,1,406,55,2 904,197,922,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\885.jpg 337,1,406,59,2 907,198,921,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\886.jpg 338,1,409,55,2 905,197,922,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\887.jpg 338,2,404,56,2 905,193,923,220,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\888.jpg 337,2,407,54,2 902,198,921,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\889.jpg 338,2,407,52,2 906,197,920,221,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\89.jpg 240,185,314,257,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\890.jpg 338,1,408,55,2 905,198,921,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\891.jpg 336,1,406,52,2 904,196,921,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\892.jpg 339,1,407,54,2 905,198,920,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\893.jpg 336,1,408,57,2 905,195,923,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\894.jpg 338,2,408,55,2 905,199,922,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\895.jpg 337,1,409,52,2 904,197,921,217,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\896.jpg 339,1,408,54,2 906,198,921,216,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\897.jpg 338,1,408,55,2 906,198,921,220,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\898.jpg 337,2,408,52,2 904,197,921,219,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\899.jpg 337,1,405,54,2 904,196,922,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\9.jpg 976,363,1034,419,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\90.jpg 708,445,726,467,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\91.jpg 1131,273,1224,363,1 1110,154,1232,275,2 701,461,730,484,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\92.jpg 825,346,867,387,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\93.jpg 795,372,825,402,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\936.jpg 921,177,950,206,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\937.jpg 943,173,972,202,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\938.jpg 971,169,999,197,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\939.jpg 1002,165,1033,196,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\94.jpg 606,421,628,450,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\940.jpg 1043,158,1076,191,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\941.jpg 1087,148,1128,189,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\942.jpg 1150,136,1195,181,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\943.jpg 1225,122,1274,171,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\944.jpg 1325,104,1381,160,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\945.jpg 875,155,899,179,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\946.jpg 887,151,913,177,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\947.jpg 901,146,929,174,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\948.jpg 918,143,942,167,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\949.jpg 938,133,964,159,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\95.jpg 817,381,846,415,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\950.jpg 955,126,987,158,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\951.jpg 978,120,1011,153,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\952.jpg 1010,109,1043,142,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\953.jpg 1046,96,1081,131,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\954.jpg 1083,80,1121,123,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\955.jpg 1136,64,1176,110,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\956.jpg 1278,15,1321,69,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\96.jpg 372,446,392,467,1 729,434,752,456,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\960.jpg 804,192,822,210,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\961.jpg 813,185,832,209,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\962.jpg 821,179,843,206,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\963.jpg 830,177,851,201,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\964.jpg 840,173,865,201,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\965.jpg 850,173,883,202,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\966.jpg 868,167,893,195,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\967.jpg 884,161,914,194,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\968.jpg 906,154,939,188,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\969.jpg 932,146,968,184,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\97.jpg 1087,154,1207,272,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\970.jpg 966,141,1002,180,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\971.jpg 1003,128,1046,175,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\972.jpg 1055,115,1106,166,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\973.jpg 1122,90,1181,148,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\974.jpg 1228,55,1280,134,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\976.jpg 905,171,927,195,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\977.jpg 919,166,943,190,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\978.jpg 940,159,964,187,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\979.jpg 961,155,984,182,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\98.jpg 913,320,946,358,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\980.jpg 984,150,1013,178,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\981.jpg 1015,144,1042,175,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\982.jpg 1048,133,1078,170,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\983.jpg 1084,125,1123,165,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\984.jpg 1134,117,1179,156,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\985.jpg 1197,104,1243,149,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\986.jpg 1274,88,1316,144,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\987.jpg 673,178,689,200,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\988.jpg 670,177,687,203,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\989.jpg 669,175,689,199,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\99.jpg 884,333,932,384,1  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\990.jpg 665,173,690,201,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\991.jpg 662,174,687,202,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\992.jpg 658,175,682,197,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\993.jpg 654,169,676,197,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\994.jpg 649,170,676,198,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\995.jpg 643,168,668,196,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\996.jpg 635,166,661,195,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\997.jpg 627,163,653,191,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\998.jpg 614,158,643,188,2  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\images\999.jpg 601,154,632,184,2  

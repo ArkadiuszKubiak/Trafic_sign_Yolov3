@@ -1,0 +1,17 @@
+**/*.jpg
+!/trafic_sign_dataset/*.jpg
+!/trafic_sign_dataset/*.xml
+!/trafic_sign_dataset/*.mp4
+!/trafic_sign_dataset/*.h5
+!/logs/*.h5
+!/model_data/*.h5
+!/model_data/*.weights
+
+*.xml
+*.mp4
+*.avi
+*.h5
+*.DESKTOP-FATDED8
+*.ini
+*.weights
+*.cfg

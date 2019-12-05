@@ -1,0 +1,15 @@
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\speed_limit\test\153.jpg 1213,421,1244,452,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\speed_limit\test\154.jpg 909,445,931,471,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\speed_limit\test\155.jpg 911,326,959,369,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\speed_limit\test\156.jpg 1170,274,1239,339,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\speed_limit\test\157.jpg 1202,330,1246,373,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\speed_limit\test\158.jpg 722,268,786,331,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\speed_limit\test\10.jpg 1042,282,1120,356,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\speed_limit\test\100.jpg 1111,281,1164,334,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\speed_limit\test\101.jpg 725,442,749,467,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\speed_limit\test\2507.jpg 908,60,954,103,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\speed_limit\test\2508.jpg 919,47,969,93,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\speed_limit\test\2509.jpg 922,30,982,81,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\speed_limit\test\403.jpg 831,181,847,202,0 565,196,587,218,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\speed_limit\test\404.jpg 843,175,861,198,0 563,195,579,214,0  
+C:\Users\Arek\Desktop\YOLOv3-custom-training\trafic_sign_dataset\speed_limit\test\405.jpg 855,173,875,197,0 560,196,577,213,0  
